@@ -1,0 +1,52 @@
+# site: ncat1.app
+
+DOMAIN-REGEX,^(.+\.)?ncat\d+\.app
+DOMAIN-SUFFIX,enbymae.com
+DOMAIN-SUFFIX,cyscyy.com
+DOMAIN-SUFFIX,zyxpedu.com
+IP-CIDR,103.39.111.0/24
+
+# 超清2
+IP-CIDR,208.69.102.0/24
+# FF
+DOMAIN-SUFFIX,ffzy-bofang.com
+# 蓝光1
+DOMAIN-SUFFIX,fengbao11.com
+# HN
+DOMAIN-SUFFIX,bfvvs.com
+DOMAIN-SUFFIX,ymuuy.com
+# 蓝光9
+DOMAIN-SUFFIX,jisuzyv.com
+DOMAIN-SUFFIX,jisuts.com
+# 蓝光
+DOMAIN-SUFFIX,phimgood.com
+# 蓝光3
+DOMAIN-SUFFIX,vvvip-plays33.cc
+# 蓝光7
+DOMAIN-SUFFIX,hhuus.com
+DOMAIN-SUFFIX,hhwenjian.com
+# LZ
+DOMAIN-SUFFIX,lfthirtytwo.com
+# XL
+DOMAIN-SUFFIX,xluuss.com
+DOMAIN-SUFFIX,xlzyd.com
+# DB
+DOMAIN-SUFFIX,ajupf.com
+# SB
+DOMAIN-SUFFIX,xluuss.com
+DOMAIN-SUFFIX,xlzyd.com
+# 蓝光4
+DOMAIN-SUFFIX,rstu6.com
+DOMAIN-SUFFIX,tscjzy.com
+# WJ
+DOMAIN-SUFFIX,ppqrrs.com
+DOMAIN-SUFFIX,adfg8.vip
+# JY
+DOMAIN-SUFFIX,ijycnd.com
+DOMAIN-SUFFIX,baisiweiting.com
+# GS
+DOMAIN-SUFFIX,gsuus.com
+DOMAIN-SUFFIX,gszyi.com
+# IK
+DOMAIN-SUFFIX,bfikuncdn.com
+DOMAIN-SUFFIX,kkzycdn.com

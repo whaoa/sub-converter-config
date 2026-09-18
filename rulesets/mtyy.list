@@ -1,0 +1,19 @@
+# site: mtyy.tv
+
+DOMAIN-SUFFIX,mtyy.tv
+DOMAIN-REGEX,^(.+\.)?mtyy\d+\.(cc|com)
+DOMAIN-SUFFIX,zstatic.net
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,ykimg.com
+
+# MT
+DOMAIN-SUFFIX,uvjtih.cn
+# NB
+DOMAIN-SUFFIX,nbyjson.top
+DOMAIN-SUFFIX,icve.com.cn
+# BF
+DOMAIN-SUFFIX,fengbao11.com
+# LZ
+DOMAIN-SUFFIX,lfthirtytwo.com
+# MD
+DOMAIN-SUFFIX,modujx17.com

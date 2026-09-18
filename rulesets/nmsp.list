@@ -1,0 +1,27 @@
+# site: ningmengshipin.com
+
+DOMAIN-REGEX,^(.+\.)?nmsp\d+\.cc
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,hitv.com
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,fffgood.com
+DOMAIN-SUFFIX,picbf.com
+DOMAIN-SUFFIX,yzzyimg.online
+DOMAIN-SUFFIX,ukuapi88.com
+DOMAIN-SUFFIX,ffeiimg.com
+DOMAIN-SUFFIX,doubanio.com
+DOMAIN-SUFFIX,gtimg.com
+
+# RY
+DOMAIN-SUFFIX,ryplay14.com
+# HD
+DOMAIN-SUFFIX,vvvip-plays33.cc
+# BF
+DOMAIN-SUFFIX,fengbao11.com
+# FF
+DOMAIN-SUFFIX,ffzy-bofang.com
+# LZ
+DOMAIN-SUFFIX,lfthirtytwo.com
+# UK
+DOMAIN-SUFFIX,ukubf8.com

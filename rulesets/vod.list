@@ -1,0 +1,155 @@
+# site: ncat1.app
+DOMAIN-WILDCARD,ncat?.app
+DOMAIN-WILDCARD,ncat??.app
+DOMAIN-WILDCARD,*.ncat?.app
+DOMAIN-WILDCARD,*.ncat??.app
+DOMAIN-SUFFIX,wkcyvs.cn
+# site: mtyy.tv
+DOMAIN-SUFFIX,mtyy.tv
+DOMAIN-WILDCARD,mtyy?.cc
+DOMAIN-WILDCARD,mtyy?.com
+DOMAIN-WILDCARD,*.mtyy?.cc
+DOMAIN-WILDCARD,*.mtyy?.com
+# site: xmfyy.com
+DOMAIN-SUFFIX,xmfyy.com
+DOMAIN-SUFFIX,xmfyy.xyz
+DOMAIN-SUFFIX,xmfyy.vip
+DOMAIN-SUFFIX,xmfyy.cc
+# site: ningmengshipin.com
+DOMAIN-WILDCARD,nmsp?.cc
+DOMAIN-WILDCARD,*.nmsp?.cc
+# site: okzyw.cc
+DOMAIN-SUFFIX,okzyw.cc
+DOMAIN-SUFFIX,okzyw.xyz
+# site: zip0.com
+DOMAIN-SUFFIX,zip0.com
+
+# mtyy, xmfyy
+DOMAIN-SUFFIX,zstatic.net
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,hitv.com
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,yzzyimg.online
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,itc.cn
+DOMAIN-SUFFIX,picbf.com
+# xmfyy, zip0
+DOMAIN-SUFFIX,jisuimage.com
+# nmsp
+DOMAIN-SUFFIX,feifeiimg.vip
+DOMAIN-SUFFIX,fffgood.com
+DOMAIN-SUFFIX,ukuapi88.com
+DOMAIN-SUFFIX,ffeiimg.com
+DOMAIN-SUFFIX,doubanio.com
+# zip0
+DOMAIN-SUFFIX,lzipic.com
+DOMAIN-SUFFIX,ry-pic.com
+DOMAIN-SUFFIX,dytt-tupian.com
+DOMAIN-SUFFIX,bfvp26.com
+DOMAIN-SUFFIX,mdzypic.com
+DOMAIN-SUFFIX,ryzypics.com
+DOMAIN-SUFFIX,imgzy360.com
+DOMAIN-SUFFIX,bfzypic.com
+DOMAIN-SUFFIX,jisuimage.com
+DOMAIN-SUFFIX,nodeimage.com
+DOMAIN-SUFFIX,zuidapic.com
+DOMAIN-SUFFIX,ynztctv.com
+
+# ff, ncat, nmsp
+DOMAIN-SUFFIX,ffzy-plays.com
+DOMAIN-SUFFIX,ffzy-online?.com
+DOMAIN-SUFFIX,ffzy-online??.com
+# bf, ncat:bd1, mtyy, xmfyy:plain2, nmsp, zip0:3
+DOMAIN-WILDCARD,fengbao?.com
+DOMAIN-WILDCARD,fengbao??.com
+DOMAIN-WILDCARD,*.fengbao?.com
+DOMAIN-WILDCARD,*.fengbao??.com
+# hn, ncat
+DOMAIN-SUFFIX,bfvvs.com
+DOMAIN-SUFFIX,ymuuy.com
+# bd9, ncat, xmfyy:plain1, zip0:6
+DOMAIN-SUFFIX,jisuzyv.com
+DOMAIN-SUFFIX,jisuts.com
+# bd, ncat, zip0:1
+DOMAIN-SUFFIX,dytt-tvs.com
+# bd3, ncat
+DOMAIN-WILDCARD,yzzy?-play.com
+DOMAIN-WILDCARD,yzzy??-play.com
+DOMAIN-WILDCARD,*.yzzy?-play.com
+DOMAIN-WILDCARD,*.yzzy??-play.com
+# bd7, ncat
+DOMAIN-SUFFIX,hhuus.com
+DOMAIN-SUFFIX,hhwenjian.com
+# lz, ncat, mtyy, nmsp
+DOMAIN-WILDCARD,lzcdn?.com
+DOMAIN-WILDCARD,lzcdn??.com
+DOMAIN-WILDCARD,*.lzcdn?.com
+DOMAIN-WILDCARD,*.lzcdn??.com
+# xl / sb
+DOMAIN-SUFFIX,xluuss.com
+DOMAIN-SUFFIX,xlzyd.com
+# db, ncat
+DOMAIN-SUFFIX,ajupf.com
+# bd4, ncat
+DOMAIN-WILDCARD,rstu?.com
+DOMAIN-WILDCARD,rstu??.com
+DOMAIN-WILDCARD,*.rstu?.com
+DOMAIN-WILDCARD,*.rstu??.com
+DOMAIN-SUFFIX,tscjzy.com
+# wj, ncat
+DOMAIN-SUFFIX,ppqrrs.com
+DOMAIN-WILDCARD,adfg?.vip
+DOMAIN-WILDCARD,adfg??.vip
+DOMAIN-WILDCARD,*.adfg?.vip
+DOMAIN-WILDCARD,*.adfg??.vip
+# ik, ncat, zip0:9
+DOMAIN-SUFFIX,bfikuncdn.com
+DOMAIN-SUFFIX,kkzycdn.com
+# jy, ncat
+DOMAIN-SUFFIX,kuktxu.com
+DOMAIN-SUFFIX,baisiweiting.com
+# gs, ncat
+DOMAIN-SUFFIX,gsuus.com
+DOMAIN-SUFFIX,gszyi.com
+# mt, mtyy
+DOMAIN-SUFFIX,uvjtih.cn
+# nb, mtyy
+DOMAIN-SUFFIX,nbyjson.top
+DOMAIN-SUFFIX,picasso-static.xiaohongshu.com
+# md, mtyy, zip0:7
+DOMAIN-SUFFIX,modujx?.com
+DOMAIN-SUFFIX,modujx??.com
+# own / youku / iqiyi / bili, xmfyy
+DOMAIN-SUFFIX,zhuijutu.vip
+DOMAIN-SUFFIX,1ljx.com
+DOMAIN-SUFFIX,sviptq.com
+DOMAIN-SUFFIX,cibntv.net
+# iqiyi, xmfyy
+DOMAIN-SUFFIX,71edge.com
+DOMAIN-SUFFIX,gxycwy.cn
+# qq, xmfyy
+DOMAIN-SUFFIX,omts.tc.qq.com
+# bili, xmfyy
+DOMAIN-SUFFIX,jimxtc.com
+# ry, nmsp, zip0:2
+DOMAIN-WILDCARD,ryiplay?.com
+DOMAIN-WILDCARD,ryiplay??.com
+DOMAIN-WILDCARD,*.ryiplay?.com
+DOMAIN-WILDCARD,*.ryiplay??.com
+# hd, nmsp
+DOMAIN-WILDCARD,yzzy?-play.com
+DOMAIN-WILDCARD,yzzy??-play.com
+DOMAIN-WILDCARD,*.yzzy?-play.com
+DOMAIN-WILDCARD,*.yzzy??-play.com
+# uk, nmsp
+DOMAIN-WILDCARD,ukubf?.com
+DOMAIN-WILDCARD,ukubf??.com
+DOMAIN-WILDCARD,*.ukubf?.com
+DOMAIN-WILDCARD,*.ukubf??.com
+# ok, okzyw
+DOMAIN-SUFFIX,okzyw.org
+DOMAIN-SUFFIX,yaaabc.com
+DOMAIN-SUFFIX,qwe132456.cc
+# zip0:5
+DOMAIN-SUFFIX,maowushi.com

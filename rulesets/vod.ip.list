@@ -1,0 +1,7 @@
+# site: ncat1.app
+IP-CIDR,103.39.111.0/24,no-resolve
+IP-CIDR,43.248.100.0/24,no-resolve
+
+# site: ncat1.app - uhd
+IP-CIDR,142.248.0.0/16,no-resolve
+IP-CIDR,208.69.102.0/24,no-resolve

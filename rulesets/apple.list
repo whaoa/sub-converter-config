@@ -1,0 +1,37 @@
+# https://ruleset.skk.moe/Clash/non_ip/apple_cn.txt
+# https://ruleset.skk.moe/Clash/non_ip/apple_services.txt
+
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,cn.apple.com
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,cn.ls.apple.com
+DOMAIN,api.smoot.apple.cn
+DOMAIN-SUFFIX,cn-ssl.ls.apple.com
+DOMAIN,gs-loc-cn.apple.com
+DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
+DOMAIN,appleintelligencefeedback.care.apple.com
+
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,appsto.re
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,organicfruitapps.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+PROCESS-NAME,com.apple.geod
+PROCESS-NAME,mapspushd
+PROCESS-NAME,com.apple.Maps
+PROCESS-NAME,apsd
+PROCESS-NAME,fmfd
+PROCESS-NAME,findmydevice-user-agent
+PROCESS-NAME,CoreLocationAgent
+PROCESS-NAME,WeatherWidget

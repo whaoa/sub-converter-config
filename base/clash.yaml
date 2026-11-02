@@ -3,3 +3,38 @@ allow-lan: true
 mode: rule
 log-level: info
 external-controller: :9090
+
+dns:
+  enable: true
+  ipv6: false
+  listen: 0.0.0.0:53
+  use-hosts: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "*.lan"
+    - "*.local"
+    - "*.arpa"
+    - time.*.com
+    - ntp.*.com
+    - +.market.xiaomi.com
+    - localhost.ptlogin2.qq.com
+    - "*.msftncsi.com"
+    - www.msftconnecttest.com
+  default-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+  nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+  proxy-server-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+  fallback:
+    - 8.8.8.8
+    - 1.1.1.1
+    - https://dns.cloudflare.com/dns-query
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    fallback-lazy-query: true

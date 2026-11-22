@@ -2,3 +2,6 @@
 DOMAIN-SUFFIX,gh-proxy.org
 DOMAIN-SUFFIX,ghfast.top
 DOMAIN-SUFFIX,dockerproxy.net
+
+# AI model routing platform
+DOMAIN-SUFFIX,cn.ai-pixel.online
